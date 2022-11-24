@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matteosoo
-- 👀 I’m interested in cryptocurrency.
-- 🌱 I’m currently researching on text-to-speech (TTS) works with high-fidelity and efficient way.
-- 💞️ I’m looking to join any projects related with NLP or ML fields.
+- 👀 Well-versed in digital signal processing (DSP) and music information retreival (MIR).
+- 🌱 Currently researching on text-to-speech (TTS) works with high-fidelity and efficient way.
+- 💞️ Looking to join any projects related with NLP or ML fields.
 - 📫 Feel free to reach me by my email (matteosoo11@gmail.com) 
 
 <!---
